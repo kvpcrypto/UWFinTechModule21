@@ -1,4 +1,9 @@
-# UWFinTechModule21
+# KaseiCoin
+
+This new fungible token is to be ERC-20 compliant and minted by using a crowdsale contract from the OpenZeppelin Solidity Library.  
+The crowdsale allows users to send ether to the contract and in return receive the newly minted tokens.
+
+
 
 ## KaseiCoin Token Contract
 ![Step_1_KaseiCoinTokenContract](https://user-images.githubusercontent.com/61864923/209018201-bc3e4992-6260-44a2-bb8c-20d23c1a6d3c.png)
